@@ -37,15 +37,15 @@
     ```
     - In the browser: 
     <br>
-    ![Server is running](images/server.png)
+    ![Server is running](./images/server.png)
 2. The following output is displayed when the metrics are viewed:
     - In the browser: 
     <br>
-    ![Metrics](images/metrics.png)
+    ![Metrics](./images/metrics.png)
 3. The following graph can be viewed in Prometheus:
     - Visit `localhost:9090/` and plot a graph after entering the expression `ping_request_count` over the last 1 minute (or any other duration): 
     <br>
-    ![Graph](images/prometheus.png)
+    ![Graph](./images/prometheus.png)
  
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
