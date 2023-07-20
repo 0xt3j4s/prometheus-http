@@ -35,9 +35,10 @@
     ```bash
     Server is listening on port 8090...
     ```
-    - In the browser: 
-
+    - In the browser:
+      
     ![Server is running](./images/server.png)
+
 2. The following output is displayed when the metrics are viewed:
     - In the browser: 
 
@@ -46,11 +47,13 @@
     - Visit `localhost:9090/` and plot a graph after entering the expression `ping_request_count` over the last 1 minute (or any other duration): 
 
     ![Graph](./images/prometheus.png)
+
+_If you found it useful to get started with **Prometheus**, please consider giving it a star (⭐)._
  
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
 
-1. Fork
+1. Create a Fork
 2. Clone your fork
 3. Create a new branch
 4. Make your changes
