@@ -36,15 +36,15 @@
     Server is listening on port 8090...
     ```
     - In the browser: 
-    <br>
+
     ![Server is running](./images/server.png)
 2. The following output is displayed when the metrics are viewed:
     - In the browser: 
-    <br>
+
     ![Metrics](./images/metrics.png)
 3. The following graph can be viewed in Prometheus:
     - Visit `localhost:9090/` and plot a graph after entering the expression `ping_request_count` over the last 1 minute (or any other duration): 
-    <br>
+
     ![Graph](./images/prometheus.png)
  
 ## Contributing
