@@ -25,9 +25,9 @@
     ./server
     ```
 
-4. To check if the server is running, open the following URL in your browser: http://localhost:8090/ping and then poggers.
+4. To check if the server is running, open the following URL in your browser: http://localhost:8090/ping and then poggers 🎉.
 
-5. To view the metrics, open the following URL in your browser: http://localhost:8090/metrics.
+6. To view the metrics, open the following URL in your browser: http://localhost:8090/metrics.
 
 ## Outputs
 1. The following output is displayed when the server is running:
