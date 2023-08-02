@@ -1,5 +1,5 @@
 # prometheus-http
-- Built my first metric exporter using Go and Prometheus, as I wanted to learn Prometheus.
+- Built my first metric exporter using Go and Prometheus.
 - Created a simple HTTP server that exposes metrics to count the number of requests made to the `/ping` endpoint.
 - The server runs on port 8090 and the metrics can be viewed at `localhost:8090/metrics`.
 - The metrics can be filtered and viewed in Prometheus at `localhost:9090/`.
