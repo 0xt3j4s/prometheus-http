@@ -11,6 +11,9 @@
 # Built application files
 server
 
+# Ignore the entire 'data' directory
+/data/
+
 # Test binary, built with `go test -c`
 *.test
 
